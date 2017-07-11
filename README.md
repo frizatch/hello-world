@@ -1,3 +1,5 @@
 # hello-world
 orientation
-interesting that you can edit the master... butcha gotta start!
+
+Interesting that you can edit the master... butcha gotta start!
+What text editor is this?
