@@ -1,5 +1,4 @@
 # hello-world
-orientation
+orientation space
 
-Interesting that you can edit the master... butcha gotta start!
-What text editor is this?
+This repo is for experimenting on github, playing around and learning.
